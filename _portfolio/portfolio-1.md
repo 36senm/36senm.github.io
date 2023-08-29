@@ -2,7 +2,7 @@
 title: "For Now, Refer to my github pages"
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 [Link can be found here](https://gihub.com/36senm)
 ---
