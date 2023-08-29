@@ -8,52 +8,26 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download CV Here](https://36senm.github.io/files/CV.pdf)
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Undergraduate Computer Science**<br/>
+Dian Nuswantoro University, Mar. 2018 – Nov. 2023, Semarang, Indonesia<br/>
+*Thesis:* “Latent Dirichlet Allocation-Based Topic Modelling For Trend Identification of Health Complaints on Telemedicine Websites in Indonesia”<br/>
+*Advisor:* Affandy, Ph.D, Dr. Farikh Alzami<br/>
+
+* **High School (Social)**<br/>
+State Senior High School 1 of Pekalongan, 2013 – 2016, Pekalongan, Indonesia <br/>
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022/09 - 2022/10: Data Entry
+  * PT OGOS INDONESIA GEMILANG
+  * Duties included: Cleaning Customer Data Sheets
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Scripting and programming:** Been working with Scripting to crawl a website using Selenium, Strong analytical and Visualization with Python, Plotly, Numpy, Pandas, Seaborn, TensorFlow, aswell as other visualization tools like Google Data Studio and Tableu. Able to understand the usage of SQL(MariaDB)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Others Skills Include:** Modeling Algorithms include Regression, Random Forest, Decision Trees, Neural Networks, Clustering, and Dimensionality Reduction, also using Technique such as NLP, Time Series Analysis, Forecasting
