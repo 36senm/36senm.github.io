@@ -11,6 +11,7 @@ redirect_from:
 [Download CV Here](https://36senm.github.io/files/CV.pdf)
 
 <br/>
+
 Education
 ======
 * **Undergraduate Computer Science**<br/>
