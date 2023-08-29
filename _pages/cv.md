@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 [Download CV Here](https://36senm.github.io/files/CV.pdf)
 
-
+<br/>
 Education
 ======
 * **Undergraduate Computer Science**<br/>
