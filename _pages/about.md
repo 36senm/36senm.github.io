@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-~~My name is Yoshikage Kira. I'm 33 years old. My house is in the northeast section of Morioh, where all the villas are, and I am not married. I work as an employee for the Kame Yu department stores, and I get home every day by 8 PM at the latest. I don't smoke, but I occasionally drink. I'm in bed by 11 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm milk and doing about twenty minutes of stretches before going to bed, I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning. I was told there were no issues at my last check-up.~~
+Throughout my academic journey, I have actively sought out opportunities to collaborate with diverse teams and embrace challenges with an open-minded approach. I am a strong believer in continuous learning and thrive in dynamic environments where creativity and innovation are encouraged. My coursework in Data Analyst and Data Science Related has equipped me with the technical proficiency required for success in this role, and my experience working on Mini Project has fortified my ability to effectively communicate and contribute within a team.
 
-*what is this guy talking about???*
+While I may not yet have formal publications to my name yet, my time as a student allowed me to cultivate a strong foundation in research methodologies and critical thinking. I am eager to embark on the next phase of my academic journey, where I plan to pursue further studies in My Interest Field which is AI, ML, and DL. My goal is to contribute meaningful insights and innovative solutions to the challenges faced within this domain.
 
-~~I'm trying to explain that I'm a person who wishes to live a very quiet life. I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I wouldn't lose to anyone.~~
-
+Thank you for visiting my profile, and I look forward to the exciting academic or opportunity collaboration journey that lies ahead. Cheers.
