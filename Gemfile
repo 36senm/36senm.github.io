@@ -15,8 +15,12 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
-
+gem 'webrick'
+gem "tzinfo-data"
+gem "jekyll", "< 3.9.2"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem 'i18n', '1.14.1'
+gem 'addressable', '2.8.5'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -24,4 +28,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+
+  
 end
