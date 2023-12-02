@@ -1,81 +1,167 @@
 ---
-title: "Portofolio"
+title: "(small) Portofolio"
 permalink: /portfolio/
 author_profile: true
 ---
 
 <html lang="en">
- <head>
-     <meta charset="UTF-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Projects</title>
-     <style>
-body {
-    font-family: Arial, sans-serif;
-    padding: 20px;
-    margin: 0 auto;
-}
 
-/* .project-container {
-    display: flex;
-    align-items: center;
-    border: 1px solid #ddd;
-    margin-bottom: 30px;
-    padding: 20px;
-} */
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+        }
 
-.project-container img {
-    max-width: 300px;
-    margin-right: 20px;
-}
+        .project-container {
+            display: flex;
+            align-items: center;
+            /* border: 1px solid #ddd; */
+            margin-bottom: 20px;
+            padding: 10px;
+            max-width: 1200px;
+            width: 100%;
+            box-sizing: border-box;
+        }
 
-.project-container h1 {
-    font-size: 20px;
-    margin-bottom: 10px;
-}
+        .small-text {
+            font-size: smaller;
+        }
 
-.project-container h2 {
-    font-size: 16px;
-    margin-top: 10px;
-}
+        .italic-text {
+            font-style: italic;
+        }
 
-.project-container p {
-    font-size: 14px;
-    margin: 5px 0;
-}
+        .justified-text {
+            text-align: justify;
+        }
 
-.project-container .project-link {
-    font-size: 14px;
-}
+        .project-container img {
+            max-width: 300px;
+            margin-right: 20px;
+        }
 
-@media screen and (max-width: 600px) {
-    .project-container {
-        flex-direction: column;
-        align-items: flex-start;
-        text-align: center;
-    }
-    .project-container img {
-        max-width: 100%;
-        margin-right: 0;
-    }
-}
+        .project-container h1 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
 
-/* Add margin at the bottom of the page */
-body::after {
-    content: "";
-    height: 200px; /* Adjust this value to control the margin size */
-    display: block;
-}
+        .project-container h2 {
+            font-size: 16px;
+            margin-top: 10px;
+        }
 
-  </style>
- </head>
+        .project-container p {
+            font-size: 14px;
+            margin: 5px 0;
+        }
 
- <body>
+        .project-container .project-link {
+            font-size: 14px;
+        }
+        @media screen and (max-width: 600px) {
+            .project-container {
+                flex-direction: column;
+                align-items: flex-start;
+                text-align: center;
+            }
+
+            .project-container img {
+                max-width: 100%;
+                margin-right: 0;
+            }
+        }
+
+        /* Add margin at the bottom of the page */
+        body::after {
+            content: "";
+            height: 200px; /* Adjust this value to control the margin size */
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
     <div class="project-container">
-        <div> 
-          <h2>For Recent Project, Kindly refer to my Github Repository</h2>
-            <p class="project-link"><a href="https://github.com/36senm" target="_blank">GitHub Repository</a></p>
+        <div>
+            <p class="justified-text">For Recent Project, Kindly refer to my Github Repository <a
+                    href="https://github.com/36senm" target="_blank">Here</a></p>
         </div>
+    </div>
+
+    <div class="project-container">
+        <div>
+            <h1>Topic Modelling LDA-Based Telemedicine - <a href="https://github.com/36senm/Topic-Modeling-Study-Case-Telemedicine-Questioner-" target="_blank">Github Repository</a></h1>
+            <p>Project Date: <strong>May 2023</strong></p>
+            <p class="justified-text">
+                Implementing Topic Modeling using Telemedicine Questionnaire. 
+                The objective here is to create a model that is able to classify 
+                a topic to data we collect from scrapping. hoping that I am able 
+                to see a pattern of any health-issue related in that current year.
+            <p><em><strong> Technology/Tools</strong></em>: <span class="italic-text">Python, Pandas, NumPy, NLP, Text Preprocessing, Gensim, Plotly</span></p>
+        </div>
+    </div>
+
+    <div class="project-container">
+        <div>
+            <h1>Recency Frequency Monetary Analysis - <a href="https://www.youtube.com/watch?v=6PWNavF9ElM&ab_channel=HACKTIV8" target="_blank">Video</a></h1>
+            <p>Project Date: <strong>Apr 2022</strong></p>
+            <p class="justified-text">
+               In this case a machine learning model will be created, to predict whether a transaction that occurs is a fraudulent transaction or not.</p>
+            <p><em><strong> Technology/Tools</strong></em>: <span class="italic-text">Tableau, Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Statsmodels, Streamlit</span></p>
+        </div>
+    </div>
+
+    <div class="project-container">
+        <div>
+            <h1>Telcom Company Customer Churn Prediction - <a href="https://github.com/36senm/Chrun-Prediction" target="_blank"> GitHub Repository</a> </h1>
+            <p>Project Date: <strong>Apr 2022</strong></p>
+            <p class="justified-text">
+            Customer attrition or customer churn occurs when 
+            customers or subscribers stop doing business with a 
+            company or service. Customer churn is a critical metric 
+            because it is much more cost effective to retain 
+            existing customers than it is to acquire new customers 
+            as it saves cost of sales and marketing. Customer 
+            retention is more cost-effective as you’ve already 
+            earned the trust and loyalty of existing customers.</p>
+            <p><em><strong> Technology/Tools</strong></em>: <span class="italic-text">Python,  Pandas,  NumPy,  Seaborn,  Matplotlib,  SciPy,  Scikit-Learn,  Feature-Engine,  TensorFlow,  Keras, Deep Learning</span></p>
+        </div>
+    </div>
+
+    <div class="project-container">
+        <div>
+            <h1>Fraudulent Transaction Prediction - <a href="https://github.com/36senm/Fraudulent-Transaction-Prediction" target="_blank">GitHub Repository</a></h1>
+            <p>Project Date: <strong>Apr 2022</strong></p>
+            <p class="justified-text">
+               In this case a machine learning model will be created, to predict whether a transaction that occurs is a fraudulent transaction or not.</p>
+            <p><em><strong> Technology/Tools</strong></em>: <span class="italic-text">Python, Pandas, Numpy, Seaborn, Matplotlib, Plotly, Machine Learning</span></p>
+        </div>
+    </div>
+
+    <div class="project-container">
+        <div>
+            <h1>Term Deposit Prediction - <a href="https://github.com/36senm/Term-Deposit-Prediction" target="_blank">GitHub Repository</a></h1>
+            <p>Project Date: <strong>Apr 2022</strong></p>
+            <p class="justified-text">
+            Given a dataset, which will be analyze its intricacies and 
+            employ data analysis techniques to derive meaningful 
+            insights. Then, construct a Machine Learning 
+            model to the dataset's specific requirements. 
+            In this case, the primary objective is to predict 
+            whether an individual is likely to accept an offer 
+            and subscribe to a term-deposit.  
+            This approach combines EDA with the development of a 
+            predictive model, 
+            ensuring a thorough understanding of the dataset and 
+            its potential impact on forecasting outcomes.</p>
+            <p><em><strong> Technology/Tools</strong></em>: <span class="italic-text">Tableau, Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, Statsmodels.</span></p>        </div>
     </div>
  </body>
 </html>

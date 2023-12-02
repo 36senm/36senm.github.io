@@ -12,4 +12,4 @@ Throughout my academic journey, I have actively sought out opportunities to coll
 
 While I may not yet have formal publications to my name yet, my time as a student allowed me to cultivate a strong foundation in research methodologies and critical thinking. I am eager to embark on the next phase of my academic journey, where I plan to pursue further studies in My Interest Field which is AI, ML, and DL. My goal is to contribute meaningful insights and innovative solutions to the challenges faced within this domain.
 
-Thank you for visiting my profile, and I look forward to the exciting academic or opportunity collaboration journey that lies ahead. Cheers.
+Thank you for visiting my profile, and I look forward to the exciting academic or opportunity collaboration journey that lies ahead. Cheers. This is test update
