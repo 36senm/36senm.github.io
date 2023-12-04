@@ -1,0 +1,27 @@
+copying from ' https://github.com/academicpages/academicpages.github.io/issues/1197 '
+
+if you have trouble running this from local, try this out it might works. dont forget to install the dependencies 
+
+Hi,
+I was trying to get my website locally (in VC code) and after more than an hour I've succeeded :)
+I've written following readme, maybe it will help :
+
+`to run this website localy:
+0) instal ruby on rails and jekyll: https://jekyllrb.com/docs/installation/macos/
+
+change the GemFile as follow:
+comment the line:
+#gem "github-pages", group: :jekyll_plugins
+uncomment following lines:
+gem "jekyll"
+gem "jekyll-paginate"
+gem "jekyll-gist"
+gem "jekyll-redirect-from"
+gem "kramdown-parser-gfm"
+gem "webrick"
+
+bundle install
+
+bundle exec jekyll serve
+
+open http://127.0.0.1:4000/ in your browser`
